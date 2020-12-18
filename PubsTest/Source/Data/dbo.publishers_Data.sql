@@ -1,0 +1,8 @@
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('0736', N'Livre Academic support ', N'Jersey', 'MA', N'USA')
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('0877', N'Biblio Medical Promotions Corporation', N'Greensboro', 'DC', N'USA')
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('1389', N'Kirja Technical Publications International', N'Jackson', 'CA', N'USA')
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('1622', N'Kirja Medical Services Products', NULL, 'IL', N'USA')
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('1756', N'Biblio Technical Guides ', N'Rochester', 'TX', N'USA')
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('9901', N'Pustaka Medical Communications ', N'Santa Ana', NULL, N'Germany')
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('9952', N'Pustaka Technical Editions ', N'Columbus', 'NY', N'USA')
+INSERT INTO [dbo].[publishers] ([pub_id], [pub_name], [city], [state], [country]) VALUES ('9999', N'Kirja Technical Guides ', N'Corpus Christi', NULL, N'France')

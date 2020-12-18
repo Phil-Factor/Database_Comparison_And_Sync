@@ -1,0 +1,98 @@
+[
+    {
+        "Type":  "In1",
+        "pub_id_k":  "0736",
+        "pub_name_s":  "Livre Academic support ",
+        "pub_name_t":  "",
+        "city_s":  "Jersey",
+        "city_t":  "",
+        "state_s":  "MA",
+        "state_t":  "",
+        "country_s":  "USA",
+        "country_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "pub_id_k":  "0877",
+        "pub_name_s":  "Biblio Medical Promotions Corporation",
+        "pub_name_t":  "",
+        "city_s":  "Greensboro",
+        "city_t":  "",
+        "state_s":  "DC",
+        "state_t":  "",
+        "country_s":  "USA",
+        "country_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "pub_id_k":  "1389",
+        "pub_name_s":  "Kirja Technical Publications International",
+        "pub_name_t":  "",
+        "city_s":  "Jackson",
+        "city_t":  "",
+        "state_s":  "CA",
+        "state_t":  "",
+        "country_s":  "USA",
+        "country_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "pub_id_k":  "1622",
+        "pub_name_s":  "Kirja Medical Services Products",
+        "pub_name_t":  "",
+        "city_s":  "\u003cNULL\u003e",
+        "city_t":  "",
+        "state_s":  "IL",
+        "state_t":  "",
+        "country_s":  "USA",
+        "country_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "pub_id_k":  "1756",
+        "pub_name_s":  "Biblio Technical Guides ",
+        "pub_name_t":  "",
+        "city_s":  "Rochester",
+        "city_t":  "",
+        "state_s":  "TX",
+        "state_t":  "",
+        "country_s":  "USA",
+        "country_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "pub_id_k":  "9901",
+        "pub_name_s":  "Pustaka Medical Communications ",
+        "pub_name_t":  "",
+        "city_s":  "Santa Ana",
+        "city_t":  "",
+        "state_s":  "\u003cNULL\u003e",
+        "state_t":  "",
+        "country_s":  "Germany",
+        "country_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "pub_id_k":  "9952",
+        "pub_name_s":  "Pustaka Technical Editions ",
+        "pub_name_t":  "",
+        "city_s":  "Columbus",
+        "city_t":  "",
+        "state_s":  "NY",
+        "state_t":  "",
+        "country_s":  "USA",
+        "country_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "pub_id_k":  "9999",
+        "pub_name_s":  "Kirja Technical Guides ",
+        "pub_name_t":  "",
+        "city_s":  "Corpus Christi",
+        "city_t":  "",
+        "state_s":  "\u003cNULL\u003e",
+        "state_t":  "",
+        "country_s":  "France",
+        "country_t":  ""
+    }
+]

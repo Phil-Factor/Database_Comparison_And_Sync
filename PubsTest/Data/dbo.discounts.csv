@@ -1,0 +1,4 @@
+"Type","Discount_id_k","discounttype_s","discounttype_t","stor_id_s","stor_id_t","lowqty_s","lowqty_t","highqty_s","highqty_t","discount_s","discount_t"
+"In1","1","Initial Customer","","7896","","<NULL>","","<NULL>","","10.50",""
+"In1","2","Volume Discount","","7131","","100","","1000","","6.70",""
+"In1","3","Customer Discount","","7131","","<NULL>","","<NULL>","","5.00",""

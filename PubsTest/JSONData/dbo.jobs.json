@@ -1,0 +1,142 @@
+[
+    {
+        "Type":  "In1",
+        "job_id_k":  "1",
+        "job_desc_s":  "New Hire - Job not specified",
+        "job_desc_t":  "",
+        "min_lvl_s":  "10",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "10",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "2",
+        "job_desc_s":  "Chief Executive Officer",
+        "job_desc_t":  "",
+        "min_lvl_s":  "200",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "250",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "3",
+        "job_desc_s":  "Business Operations Manager",
+        "job_desc_t":  "",
+        "min_lvl_s":  "175",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "225",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "4",
+        "job_desc_s":  "Chief Financial Officier",
+        "job_desc_t":  "",
+        "min_lvl_s":  "175",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "250",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "5",
+        "job_desc_s":  "Publisher",
+        "job_desc_t":  "",
+        "min_lvl_s":  "150",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "250",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "6",
+        "job_desc_s":  "Managing Editor",
+        "job_desc_t":  "",
+        "min_lvl_s":  "140",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "225",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "7",
+        "job_desc_s":  "Marketing Manager",
+        "job_desc_t":  "",
+        "min_lvl_s":  "120",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "200",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "8",
+        "job_desc_s":  "Public Relations Manager",
+        "job_desc_t":  "",
+        "min_lvl_s":  "100",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "175",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "9",
+        "job_desc_s":  "Acquisitions Manager",
+        "job_desc_t":  "",
+        "min_lvl_s":  "75",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "175",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "10",
+        "job_desc_s":  "Productions Manager",
+        "job_desc_t":  "",
+        "min_lvl_s":  "75",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "165",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "11",
+        "job_desc_s":  "Operations Manager",
+        "job_desc_t":  "",
+        "min_lvl_s":  "75",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "150",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "12",
+        "job_desc_s":  "Editor",
+        "job_desc_t":  "",
+        "min_lvl_s":  "25",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "100",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "13",
+        "job_desc_s":  "Sales Representative",
+        "job_desc_t":  "",
+        "min_lvl_s":  "25",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "100",
+        "max_lvl_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "job_id_k":  "14",
+        "job_desc_s":  "Designer",
+        "job_desc_t":  "",
+        "min_lvl_s":  "25",
+        "min_lvl_t":  "",
+        "max_lvl_s":  "100",
+        "max_lvl_t":  ""
+    }
+]

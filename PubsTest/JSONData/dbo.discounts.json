@@ -1,0 +1,44 @@
+[
+    {
+        "Type":  "In1",
+        "Discount_id_k":  "1",
+        "discounttype_s":  "Initial Customer",
+        "discounttype_t":  "",
+        "stor_id_s":  "7896",
+        "stor_id_t":  "",
+        "lowqty_s":  "\u003cNULL\u003e",
+        "lowqty_t":  "",
+        "highqty_s":  "\u003cNULL\u003e",
+        "highqty_t":  "",
+        "discount_s":  "10.50",
+        "discount_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "Discount_id_k":  "2",
+        "discounttype_s":  "Volume Discount",
+        "discounttype_t":  "",
+        "stor_id_s":  "7131",
+        "stor_id_t":  "",
+        "lowqty_s":  "100",
+        "lowqty_t":  "",
+        "highqty_s":  "1000",
+        "highqty_t":  "",
+        "discount_s":  "6.70",
+        "discount_t":  ""
+    },
+    {
+        "Type":  "In1",
+        "Discount_id_k":  "3",
+        "discounttype_s":  "Customer Discount",
+        "discounttype_t":  "",
+        "stor_id_s":  "7131",
+        "stor_id_t":  "",
+        "lowqty_s":  "\u003cNULL\u003e",
+        "lowqty_t":  "",
+        "highqty_s":  "\u003cNULL\u003e",
+        "highqty_t":  "",
+        "discount_s":  "5.00",
+        "discount_t":  ""
+    }
+]
